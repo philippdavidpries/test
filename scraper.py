@@ -4,7 +4,7 @@ print("Clickonthe...morelinktoseethewholepage")
 
 
  
-importlxml.html
+import lxml.html
 root=lxml.html.fromstring(html) #turnourHTMLintoanlxmlobject
 
 tds=root.cssselect("td") #getallthe<tdtags
