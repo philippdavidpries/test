@@ -1,5 +1,5 @@
 import scraperwiki
-html=scraperwiki.scrape("http://inmo.ie/6022")
+html=scraperwiki.scrape("https://www.walderbach.de/fileadmin/user_upload/Wahl/index.html")
 print("Clickonthe...morelinktoseethewholepage")
 
 
